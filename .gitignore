@@ -1,3 +1,5 @@
 __pycache__/
 .venv
-
+data/csv_files
+data/json_files
+data/txt_files
